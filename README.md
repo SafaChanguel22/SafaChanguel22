@@ -34,7 +34,7 @@ especially in **health** and **sustainability**.
 
 ## 📫 Let's connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/safachanguel)  
+- 💼 LinkedIn: www.linkedin.com/in/safachanguel 
 - 📧 safa.changuel.pro@gmail.com
 - 🌐 Open to opportunities in France 🇫🇷 and Europe 🇪🇺
 
