@@ -24,7 +24,7 @@ gives me an unusual mix of biology grounding and data engineering.
 languages  = ["Python", "SQL", "Bash/Shell", "R", "Java & C++ (notions)"]
 ml         = ["scikit-learn", "LightGBM", "CatBoost", "Prophet"]
 tools      = ["VS Code", "Anaconda"]
-currently  = ["learning Git", "building with Claude Code"]
+currently  = ["learning Git", "learning Snowflake"]
 ```
 
 ## 🌍 What drives me
