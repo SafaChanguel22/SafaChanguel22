@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is **Safa Changuel** I am an engineering student at **École Centrale de Nantes** & **Norwegian University of Science and Technology (NTNU) Trondheim**, 
-graduating August 2026.
+graduating June 2026.
 
 **Data Engineer · Statistical Modelling · AI & ML**
 I work at the intersection of data and decision-making translating complex analyses into actionable insights.
